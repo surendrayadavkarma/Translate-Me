@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795502056030",
+    "project_id": "translateme-4d13a",
+    "storage_bucket": "translateme-4d13a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795502056030:android:d8b3276a2666a7cd929acf",
+        "android_client_info": {
+          "package_name": "com.example.translateme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7gABLFkZG_C2MSqpRteZpkOm8K269lpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
